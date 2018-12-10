@@ -69,7 +69,7 @@
 ### Υλικά
 
 A/A   | Περιγραφή   | Ποσότητα  | Τιμή / Τεμ. € | Σύνολο €
------|  
+---|  ---|  ---|  ---|  ---|  ---|  
 1     |[Arduino Nano Compatible FT232](https://grobotronics.com/nano-ft232-atmega328p-compatible-for-arduino-nano.html) | 1         | 9.90          |  9.90
 2  |[Screw Terminal Breakout for Arduino Nano](https://grobotronics.com/nano-shield-for-arduino-nano.html)   | 1  | 3.50  |  3.50
 3     | [Temperature Analog Sensor Module LM35D](https://grobotronics.com/temperature-analog-sensor-module-lm35d.html)   | 1  | 3.90   |   3.90
