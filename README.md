@@ -83,8 +83,10 @@ A/A   | Περιγραφή   | Ποσότητα  | Τιμή / Τεμ. € | Σύ
 11 | [Rocker switch ON-OFF Black](https://grobotronics.com/rocker-switch-on-off.html)   | 2   | 0.5  |  1
 12  | [Project Box 135x135x60mm](https://grobotronics.com/project-box-135x135x60mm-grey.html)   | 1   | 6.4  |  6.4
 13  |[9V Battery Clip](https://grobotronics.com/9v-battery-clip.html)| 1  | 0.25  | 0.25     
-14 | Μπαταρία 9V   |   |   | 2
-      | Σύνολο   |   |   |   54 € 
+14 | Μπαταρία 9V   |   |   | 2   
+Σύνολο  |   |   |   |  54
+
+
 
 **Άλλα υλικά**
 - Ξυλεία (Κόντρα πλακέ)
