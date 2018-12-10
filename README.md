@@ -68,7 +68,7 @@
 
 ### Υλικά
 
-A/A   | Περιγραφή   | Ποσότητα  | Τιμή / Τεμ. € | Σύνολο € 
+A/A   | Περιγραφή   | Ποσότητα  | Τιμή / Τεμ. € | Σύνολο €
 ------| ------------|-----------|---------------|----------
 1     |[Arduino Nano Compatible FT232](https://grobotronics.com/nano-ft232-atmega328p-compatible-for-arduino-nano.html) | 1         | 9.90          |  9.90
 2  |[Screw Terminal Breakout for Arduino Nano](https://grobotronics.com/nano-shield-for-arduino-nano.html)   | 1  | 3.50  |  3.50
@@ -82,12 +82,15 @@ A/A   | Περιγραφή   | Ποσότητα  | Τιμή / Τεμ. € | Σύ
 10  | [Solar Panel 2W 136x110mm](https://grobotronics.com/solar-panel-2w-136x110mm.html)  | 1  |  5.90 |  5.90
 11 | [Rocker switch ON-OFF Black](https://grobotronics.com/rocker-switch-on-off.html)   | 2   | 0.5  |  1
 12  | [Project Box 135x135x60mm](https://grobotronics.com/project-box-135x135x60mm-grey.html)   | 1   | 6.4  |  6.4
+13  |[Arduino 9V Jack adapter](https://grobotronics.com/arduino-9v-jack-adapter.html)| 1  | 0.90  | 0.90     
+  |Σύνολο   |   |   |  52.5
 
-
+**Άλλα υλικά**
 - Ξυλεία (Κόντρα πλακέ)
 - Ξυλεία balsa για κατασκευή επίπλων
 - Ύφασμα για τα έπιπλα και την τέντα
 - Καλώδια
+- Μπαταρία 9V
 - Διάφορα χρώματα (για το σπίτι)
 
 ### Προγραμματισμός
