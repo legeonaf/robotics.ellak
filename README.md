@@ -87,7 +87,7 @@ A/A   | Περιγραφή   | Ποσότητα  | Τιμή / Τεμ. € | Σύ
 14  | [Project Box 135x135x60mm](https://grobotronics.com/project-box-135x135x60mm-grey.html)   | 1   | 6.4  |  6.4
 15  |[9V Battery Clip](https://grobotronics.com/9v-battery-clip.html)| 1  | 0.25  | 0.25     
 16 | Μπαταρία 9V   |   |   | 2   
-Σύνολο  |   |   |   |  54
+Σύνολο  |   |   |   |  120
 
 
 
