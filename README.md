@@ -63,6 +63,7 @@
 3. Χρησιμοποιεί αισθητήρα για έλεγχο της πόρτας ενεργοποιώντας τον συναγερμό
 4. Να χρησιμοποιεί ηλιακή ενέργεια για την τροφοδοσία του
 5. Να ελέγχει το φώτα εσωτερικού χώρου
+6. Χρησιμοποιεί κάμερα για παρακολούθηση του εσωτερικού χώρου
 
 ![Image](home.png)
 
@@ -71,19 +72,21 @@
 A/A   | Περιγραφή   | Ποσότητα  | Τιμή / Τεμ. € | Σύνολο €
 ------| ------------|-----------|---------------|----------
 1     |[Arduino Nano Compatible FT232](https://grobotronics.com/nano-ft232-atmega328p-compatible-for-arduino-nano.html) | 1         | 9.90          |  9.90
-2  |[Screw Terminal Breakout for Arduino Nano](https://grobotronics.com/nano-shield-for-arduino-nano.html)   | 1  | 3.50  |  3.50
-3     | [Temperature Analog Sensor Module LM35D](https://grobotronics.com/temperature-analog-sensor-module-lm35d.html)   | 1  | 3.90   |   3.90
-4     | [SparkFun Ambient Light Sensor Breakout - TEMT6000](https://grobotronics.com/sparkfun-ambient-light-sensor-breakout-temt6000.html)  | 1  | 5.80  |  5.80
-5  |[Servo Micro 1.5kg.cm Plastic Gears](https://grobotronics.com/servo-micro-1.5kg.cm-plastic-gears-feetech-fs90.html)   | 1 | 4.90  | 4.90  
-6  | [Magnetic Reed Switch (NC)](https://grobotronics.com/magnetic-reed-switch-nc.html)   | 1  | 4.80  |  4.80
-7  | [LED 5mm - Super Bright Red](https://grobotronics.com/led-5mm-el.html)  | 10  | 0.2  |  2
-8  | [LED 5mm - Super Bright White](https://grobotronics.com/whitecold-led-5mm.html)   | 10  | 0.2  |  2
-9  | [Passive Buzzer Module](https://grobotronics.com/passive-buzzer-module.html)  |1  |  1.5 |  1.5
-10  | [Solar Panel 2W 136x110mm](https://grobotronics.com/solar-panel-2w-136x110mm.html)  | 1  |  5.90 |  5.90
-11 | [Rocker switch ON-OFF Black](https://grobotronics.com/rocker-switch-on-off.html)   | 2   | 0.5  |  1
-12  | [Project Box 135x135x60mm](https://grobotronics.com/project-box-135x135x60mm-grey.html)   | 1   | 6.4  |  6.4
-13  |[9V Battery Clip](https://grobotronics.com/9v-battery-clip.html)| 1  | 0.25  | 0.25     
-14 | Μπαταρία 9V   |   |   | 2   
+2     |[Raspberry Pi](https://grobotronics.com/raspberry-pi-3-model-b-el.html) | 1         | 41.90          |  41.90
+3     |[Raspberry Pi Camera Module NoIR V2 (8MP,1080p)](https://grobotronics.com/raspberry-pi-camera-module-noir-v2-8mp-1080p.html) | 1         | 29.90          |  29.90
+4  |[Screw Terminal Breakout for Arduino Nano](https://grobotronics.com/nano-shield-for-arduino-nano.html)   | 1  | 3.50  |  3.50
+5     | [Temperature Analog Sensor Module LM35D](https://grobotronics.com/temperature-analog-sensor-module-lm35d.html)   | 1  | 3.90   |   3.90
+6     | [SparkFun Ambient Light Sensor Breakout - TEMT6000](https://grobotronics.com/sparkfun-ambient-light-sensor-breakout-temt6000.html)  | 1  | 5.80  |  5.80
+7  |[Servo Micro 1.5kg.cm Plastic Gears](https://grobotronics.com/servo-micro-1.5kg.cm-plastic-gears-feetech-fs90.html)   | 1 | 4.90  | 4.90  
+8  | [Magnetic Reed Switch (NC)](https://grobotronics.com/magnetic-reed-switch-nc.html)   | 1  | 4.80  |  4.80
+9  | [LED 5mm - Super Bright Red](https://grobotronics.com/led-5mm-el.html)  | 10  | 0.2  |  2
+10  | [LED 5mm - Super Bright White](https://grobotronics.com/whitecold-led-5mm.html)   | 10  | 0.2  |  2
+11  | [Passive Buzzer Module](https://grobotronics.com/passive-buzzer-module.html)  |1  |  1.5 |  1.5
+12  | [Solar Panel 2W 136x110mm](https://grobotronics.com/solar-panel-2w-136x110mm.html)  | 1  |  5.90 |  5.90
+13 | [Rocker switch ON-OFF Black](https://grobotronics.com/rocker-switch-on-off.html)   | 2   | 0.5  |  1
+14  | [Project Box 135x135x60mm](https://grobotronics.com/project-box-135x135x60mm-grey.html)   | 1   | 6.4  |  6.4
+15  |[9V Battery Clip](https://grobotronics.com/9v-battery-clip.html)| 1  | 0.25  | 0.25     
+16 | Μπαταρία 9V   |   |   | 2   
 Σύνολο  |   |   |   |  54
 
 
