@@ -72,7 +72,7 @@
 A/A   | Περιγραφή   | Ποσότητα  | Τιμή / Τεμ. € | Σύνολο €
 ------| ------------|-----------|---------------|----------
 1     |[Arduino Nano Compatible FT232](https://grobotronics.com/nano-ft232-atmega328p-compatible-for-arduino-nano.html) | 1         | 9.90          |  9.90
-2     |[Raspberry Pi](https://grobotronics.com/raspberry-pi-3-model-b-el.html) | 1         | 41.90          |  41.90
+2     |[Raspberry Pi Raspberry Pi 3 - Model B+](https://grobotronics.com/raspberry-pi-3-model-b-el.html) | 1         | 41.90          |  41.90
 3     |[Raspberry Pi Camera Module NoIR V2 (8MP,1080p)](https://grobotronics.com/raspberry-pi-camera-module-noir-v2-8mp-1080p.html) | 1         | 29.90          |  29.90
 4  |[Screw Terminal Breakout for Arduino Nano](https://grobotronics.com/nano-shield-for-arduino-nano.html)   | 1  | 3.50  |  3.50
 5     | [Temperature Analog Sensor Module LM35D](https://grobotronics.com/temperature-analog-sensor-module-lm35d.html)   | 1  | 3.90   |   3.90
