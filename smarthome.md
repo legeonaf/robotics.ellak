@@ -59,36 +59,3 @@
 5. Να ελέγχει το φώτα εσωτερικού χώρου
 
 ![Image](home.png)
-
-### Υλικά
-
-A/A   | Περιγραφή   | Ποσότητα  | Τιμή / Τεμ. € | Σύνολο €
-------| ------------|-----------|---------------|----------
-1     |[Arduino Nano Compatible FT232](https://grobotronics.com/nano-ft232-atmega328p-compatible-for-arduino-nano.html) | 1         | 9.90          |  9.90
-2  |[Screw Terminal Breakout for Arduino Nano](https://grobotronics.com/nano-shield-for-arduino-nano.html)   | 1  | 3.50  |  3.50
-3     | [Temperature Analog Sensor Module LM35D](https://grobotronics.com/temperature-analog-sensor-module-lm35d.html)   | 1  | 3.90   |   3.90
-4     | [SparkFun Ambient Light Sensor Breakout - TEMT6000](https://grobotronics.com/sparkfun-ambient-light-sensor-breakout-temt6000.html)  | 1  | 5.80  |  5.80
-5  |[Servo Micro 1.5kg.cm Plastic Gears](https://grobotronics.com/servo-micro-1.5kg.cm-plastic-gears-feetech-fs90.html)   | 1 | 4.90  | 4.90
-6  | [Magnetic Reed Switch (NC)](https://grobotronics.com/magnetic-reed-switch-nc.html)   | 1  | 4.80  |  4.80
-7  | [LED 5mm - Super Bright Red](https://grobotronics.com/led-5mm-el.html)  | 10  | 0.2  |  2
-8  | [LED 5mm - Super Bright White](https://grobotronics.com/whitecold-led-5mm.html)   | 10  | 0.2  |  2
-9  | [Passive Buzzer Module](https://grobotronics.com/passive-buzzer-module.html)  |1  |  1.5 |  1.5
-10  | [Solar Panel 2W 136x110mm](https://grobotronics.com/solar-panel-2w-136x110mm.html)  | 1  |  5.90 |  5.90
-11 | [Rocker switch ON-OFF Black](https://grobotronics.com/rocker-switch-on-off.html)   | 2   | 0.5  |  1
-12  | [Project Box 135x135x60mm](https://grobotronics.com/project-box-135x135x60mm-grey.html)   | 1   | 6.4  |  6.4
-13  |[9V Battery Clip](https://grobotronics.com/9v-battery-clip.html)| 1  | 0.25  | 0.25
-14 | Μπαταρία 9V   |   |   | 2
-Σύνολο  |   |   |   |  54
-
-
-
-**Άλλα υλικά**
-- Ξυλεία (Κόντρα πλακέ)
-- Ξυλεία balsa για κατασκευή επίπλων
-- Ύφασμα για τα έπιπλα και την τέντα
-- Καλώδια
-- Διάφορα χρώματα (για το σπίτι)
-
-### Προγραμματισμός
-
-Ο προγραμματισμός του Arduino θα γίνει με το scratch.

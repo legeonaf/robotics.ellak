@@ -3,23 +3,25 @@
 ## Εξαρτήματα - Τιμές
 A/A   | Περιγραφή   | Ποσότητα  | Τιμή / Τεμ. € | Σύνολο €
 ------| ------------|-----------|---------------|----------
-1 | Αισθητήρας θερμοκρασίας LM 35 | 1 | 2 € | 2
-2 | Αισθητήρας φωτός  | 1 | 2 | 2
-3 | Αισθητήρας πόρτας (μαγνητική επαφή διακόπτης)| 1 | 2 | 2
-4 | Led για τα φώτα | 4 | 0.5 | 2
-5 | Led για τα καλοριφέρ | 1 | 0.5 | 0.5
-6 | Κινητήρας σέρβο για την τέντα | 1 | 3 | 3
-7 | Κινητήρας σέρβο για την μάντρα | 1 | 3 | 3
-8 | Φωτοβολταϊκά | 2 | 3 | 6
-9 | Ηχείο buzzer | 1 | 1 | 1
-10| Οθόνη LCD 16x2  | 1  | 3 | 3
-11| Arduino Nano | 1  | 9  |  9
-12| Κόντρα Πλακέ  |   |   | 7  
-13| Ξύλο Μπάλσα  |   |   | 4
-14| Μακετόχαρτο  | 1  |   | 1
-15| Ξυλάκια Παγωτού για φράχτη | 1 πακ.  | 1.5  |  1.5
-16| Διάφορα μικρα υλικά από παιχνίδια κλπ  |   |   |  
-  | Σύνολο  | | | 
+1 | [LM35DZ LM35 TO-92 NSC TEMPERATURE SENSOR IC](https://www.ebay.com/itm/1PCS-LM35DZ-LM35-TO-92-NSC-TEMPERATURE-SENSOR-IC-Inductor-NEW/232397948189?hash=item361bff451d:g:mXMAAOSw9~5ZXKYy&frcectupt=true) | 1 | 0.84 | 0.84
+2 | [Αισθητήρας φωτός](https://www.ebay.com/itm/1-2-5-10-PCS-LM393-Optical-Photosensitive-Light-Sensor-Module-Arduino-Shield/302095762590?var=600908415798&hash=item46564f849e:m:mH6unlDwpaOI-wAI9798eVQ&frcectupt=true) | 1 | 0.65 | 0.65
+3 | Αισθητήρας πόρτας (μαγνητική επαφή διακόπτης)| 1 | 1 | 1
+4 | [Led για τα φώτα λευκά ή κίτρινα](https://grobotronics.com/led-diffused-5mm-white.html) | 4 | 0.2 | 0.8
+5 | [Led για τα καλοριφέρ](https://grobotronics.com/led-diffused-5mm-elrd.html)  | 1 | 0.1 | 0.1
+6 | [Κινητήρας σέρβο για την τέντα](https://grobotronics.com/servo-micro-1.5kg.cm-plastic-gears-feetech-fs90.html) | 1 | 4.90 | 4.90
+7 | [Κινητήρας σέρβο για την μάντρα](https://grobotronics.com/servo-micro-1.5kg.cm-plastic-gears-feetech-fs90.html) | 1 | 4.90 | 4.90
+8 | [Solar Panel 2W 136x110mm](https://grobotronics.com/solar-panel-2w-136x110mm.html)  | 2  |  5.90 |  11.80  |        
+9 | [Ηχείο buzzer](https://grobotronics.com/buzzer-2-5v-30ma.html) | 1 | 0.65 | 0.65
+10| [I2C 1602 Blue Backlight LCD Display Screen Module For Arduino](https://www.ebay.com/itm/IIC-I2C-1602-Blue-Backlight-LCD-Display-Module-For-Arduino/382822425595?epid=19030007170&hash=item5921fea3fb:g:YgYAAOSw619cflnM&frcectupt=true)  | 1  | 3 | 3.53
+11| [Arduino Nano compatible](https://grobotronics.com/nano-ft232-atmega328p-compatible-for-arduino-nano.html) | 1  | 9  |  9
+12  | [Project Box 135x135x60mm](https://grobotronics.com/project-box-135x135x60mm-grey.html)   | 1   | 6.4  |  6.4
+13| Αντιστάσεις 1/4 W 220 Ω και 10ΚΩ  | 10  | 0.01  |  0.1
+14| Κόντρα Πλακέ πάχους 6mm  |   |   | 7  
+15| Ξύλο Μπάλσα  |   |   | 4
+16| Μακετόχαρτο  | 1  |   | 1
+17| Ξυλάκια Παγωτού για φράχτη | 1 πακ.  | 1.5  |  1.5
+18| Διάφορα μικρα υλικά από παιχνίδια κλπ  |   |   |  
+  | Σύνολο  | | |
 ![image](SmartHome_bb.png)
 
 
