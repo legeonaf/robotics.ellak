@@ -64,3 +64,6 @@ A/A   | Περιγραφή   | Ποσότητα  | Τιμή / Τεμ. € | Σύ
 ![image](images/Solarpanel.png)
 
 ### Ηχείο
+
+
+[Αρχική Σελίδα έργου](https://github.com/legeonaf/robotics.ellak)

@@ -15,3 +15,7 @@ A/A | Εξάρτημα | Analog Pin
 1 | Αισθητήρας θερμοκρασίας LM 35 |
 2  |   |  
 3  |   |  
+
+
+
+[Αρχική Σελίδα έργου](https://github.com/legeonaf/robotics.ellak)
