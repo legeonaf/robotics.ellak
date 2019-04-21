@@ -58,6 +58,6 @@
 4. Να χρησιμοποιεί ηλιακή ενέργεια για την τροφοδοσία του
 5. Να ελέγχει το φώτα εσωτερικού χώρου
 
-![Image](home.png)
+![Image](images/home.png)
 
 [Αρχική Σελίδα έργου](https://github.com/legeonaf/robotics.ellak)
