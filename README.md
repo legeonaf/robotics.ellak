@@ -9,4 +9,4 @@
 - [Η Κατασκευή](Κατασκευή/README.md)
 - [Ο Προγραμματισμός](Προγραμματισμός/README.md)
 
-![Image](images/ihome.jpg)
+![Image](images/iHome.jpg)
