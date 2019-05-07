@@ -102,13 +102,13 @@
 ![image](images/yard.png)    
 Εικ 1
 
-![image](images/fence .png)     
+![image](images/fence.png)     
 Εικ 2
 
-![image](images/Fence gate.png)   
+![image](images/Fencegate.png)   
 Εικ 3
 
-![image](images/fence length.png)
+![image](images/fencelength.png)
 Εικ 4
 
 ## Η τέντα
